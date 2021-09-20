@@ -1,3 +1,15 @@
+/*
+ * IZ-AZ
+ * Easy Azimuth display for amature radio antenna rotators
+ * 
+ * TX module
+ * You can find the required libraries on https://github.com/4Z1KD/IZ-AZ
+ * 
+ * Assembly info:
+ * compass i2c pins are A4 & A5
+ * Transmitter data pin is D3
+ */
+ 
 #include <RH_ASK.h>
 #include <Wire.h>
 
