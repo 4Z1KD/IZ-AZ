@@ -30,8 +30,14 @@ Station module 🏠
 ![433RX](https://user-images.githubusercontent.com/24712835/133968015-e499f448-b7c8-4aaa-bb50-e7f5c4bf2eda.PNG)
 ![lcd](https://user-images.githubusercontent.com/24712835/133973304-bc6a9c48-b0fe-41d9-8712-b8bf6c9cc91b.png)
 
+Assembly info 🛠️
+-------------
+   By default:
+ - Receiver data pin is D11
+ - LCD SDA pin is A4
+ - LCD CLK pin is A5
 
-My IZ-AZ build 🛠️
+My IZ-AZ build ⚒
 --------------
 ![IMG_20210920_085830](https://user-images.githubusercontent.com/24712835/133973324-ebe749b0-898d-4f0f-ba35-6ebad7deb68f.jpg)
 ![IMG_20210920_111628](https://user-images.githubusercontent.com/24712835/133973631-71f4e3ce-7f5d-421e-b285-a1f733e723df.jpg)
