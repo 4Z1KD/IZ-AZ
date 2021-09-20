@@ -15,6 +15,10 @@ Remote module 📡
 - 433MHz ASK transmitter
 - GY-271 HMC5883L Digital Compass (3.3v)
 
+Assembly info:
+ * compass i2c pins are A4 & A5
+ * Transmitter data pin is D3
+
 ![promini](https://user-images.githubusercontent.com/24712835/133967826-984f3f25-2c4e-4ef8-8a24-b9c2356f814d.PNG)
 ![HMC5883L](https://user-images.githubusercontent.com/24712835/133968411-6b3fa3ec-9f69-4f71-8ad4-f264eb2424bd.PNG)
 ![433TX](https://user-images.githubusercontent.com/24712835/133967978-cde48dd8-5c06-4cd3-b061-c042d39e43d8.PNG)
@@ -26,16 +30,14 @@ Station module 🏠
 - 433MHz ASK reciever
 - 2*16 LCD
 
+Assembly info:
+ * Receiver data pin is D11
+ * LCD SDA pin is A4
+ * LCD CLK pin is A5
+
 ![nano](https://user-images.githubusercontent.com/24712835/133968429-6a6d9c30-166a-4cb9-a21a-307b86cd4563.PNG)
 ![433RX](https://user-images.githubusercontent.com/24712835/133968015-e499f448-b7c8-4aaa-bb50-e7f5c4bf2eda.PNG)
 ![lcd](https://user-images.githubusercontent.com/24712835/133973304-bc6a9c48-b0fe-41d9-8712-b8bf6c9cc91b.png)
-
-Assembly info 🛠️
--------------
-   By default:
- - Receiver data pin is D11
- - LCD SDA pin is A4
- - LCD CLK pin is A5
 
 My IZ-AZ build ⚒
 --------------
