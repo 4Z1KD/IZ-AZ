@@ -1,3 +1,16 @@
+/*
+ * IZ-AZ
+ * Easy Azimuth display for amature radio antenna rotators
+ * 
+ * RX module
+ * You can find the required libraries on https://github.com/4Z1KD/IZ-AZ
+ * 
+ * Assembly info:
+ * By default
+ * Receiver data pin is D11
+ * LCD SDA pin is A4
+ * LCD CLK pin is A5
+ */
 #include <RH_ASK.h>
 #include "DisplayService.h"
 #include <LiquidCrystal_I2C.h>
