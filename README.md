@@ -10,14 +10,14 @@ It also pushes the azimuth to the COM port so that other programs can read and u
 
 
 Remote module
---------------
-Arduino pro mini
-433MHz ASK transmitter
-GY-271 HMC5883L Digital Compass
+-------------
+- Arduino pro mini
+- 433MHz ASK transmitter
+- GY-271 HMC5883L Digital Compass
 
 
 Station module
 --------------
-Arduino nano
-433MHz ASK reciever
-2*16 LCD
+- Arduino nano
+- 433MHz ASK reciever
+- 2*16 LCD
