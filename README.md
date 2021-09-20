@@ -28,12 +28,14 @@ Station module 🏠
 
 ![nano](https://user-images.githubusercontent.com/24712835/133968429-6a6d9c30-166a-4cb9-a21a-307b86cd4563.PNG)
 ![433RX](https://user-images.githubusercontent.com/24712835/133968015-e499f448-b7c8-4aaa-bb50-e7f5c4bf2eda.PNG)
-![lcd]![IMG_20210920_085830](https://user-images.githubusercontent.com/24712835/133973119-f4dcd89b-fdd1-4ca4-91b5-c5bbfa9aa7e1.jpg)
+![lcd](https://user-images.githubusercontent.com/24712835/133973304-bc6a9c48-b0fe-41d9-8712-b8bf6c9cc91b.png)
+
 
 My IZ-AZ build 🛠️
 --------------
-(https://user-images.githubusercontent.com/24712835/133968026-307665f1-bb13-47b0-a84e-f2fb52413668.png)
+![IMG_20210920_085830](https://user-images.githubusercontent.com/24712835/133973324-ebe749b0-898d-4f0f-ba35-6ebad7deb68f.jpg)
 ![IMG_20210906_130919](https://user-images.githubusercontent.com/24712835/133973133-72cdacbf-b4ad-4969-b550-709cd759de6e.jpg)
 ![IMG_20210906_130939](https://user-images.githubusercontent.com/24712835/133973136-12077c4a-f7bd-46c1-b4c3-7f2c238910b5.jpg)
 
-
+Enjoy,
+Gil 4Z1KD
