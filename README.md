@@ -37,6 +37,3 @@ My IZ-AZ build 🛠️
 ![IMG_20210920_111628](https://user-images.githubusercontent.com/24712835/133973631-71f4e3ce-7f5d-421e-b285-a1f733e723df.jpg)
 ![IMG_20210906_130919](https://user-images.githubusercontent.com/24712835/133973133-72cdacbf-b4ad-4969-b550-709cd759de6e.jpg)
 ![IMG_20210906_130939](https://user-images.githubusercontent.com/24712835/133973136-12077c4a-f7bd-46c1-b4c3-7f2c238910b5.jpg)
-
-Enjoy,
-Gil 4Z1KD
