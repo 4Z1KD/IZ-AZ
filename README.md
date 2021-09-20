@@ -1,4 +1,4 @@
-# IZ-AZ
+# IZ-AZ 🧭
 Easy Azimuth display for amature radio antenna rotators
 
 This is a 2 parts project:
@@ -9,7 +9,7 @@ this module contains the compass and transmits the azimuth to the Station module
 It also pushes the azimuth to the COM port so that other programs can read and use it.
 
 
-Remote module
+Remote module 📡
 -------------
 - Arduino pro mini
 - 433MHz ASK transmitter
@@ -20,7 +20,7 @@ Remote module
 ![433TX](https://user-images.githubusercontent.com/24712835/133967978-cde48dd8-5c06-4cd3-b061-c042d39e43d8.PNG)
 
 
-Station module
+Station module 🏠
 --------------
 - Arduino nano
 - 433MHz ASK reciever
