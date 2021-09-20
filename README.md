@@ -13,7 +13,7 @@ Remote module
 -------------
 - Arduino pro mini
 - 433MHz ASK transmitter
-- GY-271 HMC5883L Digital Compass
+- GY-271 HMC5883L Digital Compass (3.3v)
 
 
 Station module
